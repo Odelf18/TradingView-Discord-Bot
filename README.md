@@ -37,8 +37,8 @@ A powerful Discord bot that automatically detects stock ticker symbols in messag
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/discord-stock-bot.git
-cd discord-stock-bot
+git clone https://github.com/yourusername/TradingView-Discord-Bot.git
+cd TradingView-Discord-Bot
 ```
 
 2. Create a virtual environment
@@ -170,7 +170,7 @@ All configuration options are in `config.py`:
 ## Architecture
 
 ```
-discord-stock-bot/
+TradingView-Discord-Bot/
 ├── main.py                    # Bot entry point
 ├── config.py                  # Configuration settings
 ├── requirements.txt           # Python dependencies
